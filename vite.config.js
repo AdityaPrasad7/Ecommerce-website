@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react()],
-    base: '/Ecommerce-website/'
+    base: '/VogueBay/'
 })
